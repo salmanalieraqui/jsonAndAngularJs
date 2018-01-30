@@ -1,0 +1,137 @@
+﻿[
+		{
+			"text" : "computer black screen",
+			"intentName" : "no Boot",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "dota ne fonctionne pas",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "my laptop is not working",
+			"intentName" : "no Boot",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "dota is not working",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "updates are not working",
+			"intentName" : "Update",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "dota  is not working",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "my laptop is not starting",
+			"intentName" : "no Boot",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "laptop is not working",
+			"intentName" : "no Boot",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "My laptop is overheating",
+			"intentName" : "Performance General",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "laptop is not booting up",
+			"intentName" : "no Boot",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "games on my laptop are not working",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "Cortana is not working",
+			"intentName" : "Performance application",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "Games are not working",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "I was playing a game and it stucked abruptly ",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "laptop games are very slow in my laptop",
+			"intentName" : "Performance General",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "games are not working",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "cortana is not working",
+			"intentName" : "Performance application",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "system updates are not working",
+			"intentName" : "Update",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "performance of laptop is slow",
+			"intentName" : "Performance General",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "updates  takes too much time to install",
+			"intentName" : "Update",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "how is not working",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "I was playing a game and it stopped abruptly",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "laptop screen is broken",
+			"intentName" : "Performance General",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "laptop led lights are not working",
+			"intentName" : "Performance General",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "adobe  reader is not opening",
+			"intentName" : "Performance General",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "लैपटॉप शुरू नहीं हो रहा है",
+			"intentName" : "no Boot",
+			"entityLabels" : [ ]
+		},
+		{
+			"text" : "इतने समय में लैपटॉप काम नहीं कर रहा है",
+			"intentName" : "Performance Games",
+			"entityLabels" : [ ]
+		}
+]
